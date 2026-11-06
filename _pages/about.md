@@ -13,7 +13,7 @@ My research lies at the intersection of geotechnical engineering, advanced data-
 
 Research Interests
 
-Geotechnical Reliability & Risk Assessment: Developing probabilistic frameworks (such as the Multi-Agent Gaussian Process Inference Ensemble - MAGPIE) for rainfall-induced landslide Factor of Safety prediction.
+Geotechnical Reliability & Risk Assessment: Developing probabilistic frameworks using Machine Learning (ML) techniques for rainfall-induced landslide Factor of Safety prediction.
 
 Physics-Informed & Bayesian Machine Learning: Building physics-anchored neural networks and uncertainty-quantified spatial models for geotechnical site characterization and settlement analysis.
 
