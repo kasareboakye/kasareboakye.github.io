@@ -1,11 +1,11 @@
+---
 permalink: /
 title: "About Me"
 author_profile: true
-redirect_from:
-
-/about/
-
-/about.html
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I am a doctoral researcher in the Geo-Innovation Research Laboratory (GIRL) within the Department of Civil Engineering at Chonnam National University, South Korea, under the supervision of Professor Changho Lee. I also completed my Master of Science degree in Civil Engineering at Chonnam National University.
 
