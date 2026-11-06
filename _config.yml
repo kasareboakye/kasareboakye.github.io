@@ -19,12 +19,21 @@ author:
   # Biographic information
   avatar             : "profile.png"
   name               : "Kingsley Asare Boakye"
-  pronouns           :   
   bio                : "Doctoral Researcher at Chonnam National University specializing in geotechnical reliability, acoustic signal processing, and physics-informed neural networks."
   location           : "Gwangju, South Korea"
   employer           : "Chonnam National University"
-  uri                : 
-  email              : "your.email@chonnam.ac.kr" # Update with your professional email
+  email              : "kasareboakye@hotmail.com"
+
+  # Academic websites
+  googlescholar      : "https://scholar.google.com/citations?user=7czKD3gAAAAJ&hl=en"
+  orcid              : "https://orcid.org/0000-0003-4903-8504"
+  researchgate       : "https://www.researchgate.net/profile/Kingsley-Boakye-3?ev=hdr_xprf"
+
+  # Repositories and software development
+  github             : "kasareboakye"
+
+  # Social media
+  linkedin           : "https://www.linkedin.com/in/kingsley-asare-boakye-232a54100/"
 
   # Academic websites
   academia           : 
